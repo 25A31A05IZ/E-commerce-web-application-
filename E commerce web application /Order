@@ -1,0 +1,6 @@
+{
+ userId:String,
+ products:Array,
+ total:Number,
+ status:String
+}
