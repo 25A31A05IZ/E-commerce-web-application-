@@ -1,0 +1,32 @@
+ecommerce-web-app/
+│
+├── frontend/
+│   ├── index.html
+│   ├── login.html
+│   ├── register.html
+│   ├── products.html
+│   ├── cart.html
+│   ├── checkout.html
+│   ├── css/
+│   │   └── style.css
+│   └── js/
+│       └── app.js
+│
+├── backend/
+│   ├── server.js
+│   ├── routes/
+│   │   ├── auth.js
+│   │   ├── products.js
+│   │   └── orders.js
+│   │
+│   ├── models/
+│   │   ├── User.js
+│   │   ├── Product.js
+│   │   └── Order.js
+│   │
+│   └── config/
+│       └── db.js
+│
+├── package.json
+├── README.md
+└── .gitignore
