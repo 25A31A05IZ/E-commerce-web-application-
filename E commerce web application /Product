@@ -1,0 +1,6 @@
+{
+ name:String,
+ price:Number,
+ image:String,
+ description:String
+}
